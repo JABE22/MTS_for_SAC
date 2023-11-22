@@ -27,7 +27,7 @@ ytick.labelsize:    12              # fontsize of the tick labels
 
 # Change font and font size of title and both axis labels
 font.family:        serif
-font.serif:         Tahoma
+# font.serif:         Times New Roman
 font.size:          14
 axes.titlesize:     16              # fontsize of the axes title
 axes.labelsize:     14              # fontsize of the x and y labels
